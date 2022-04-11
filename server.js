@@ -1,3 +1,17 @@
+/*********************************************************************************
+ * WEB422 – Assignment 6
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+ * No part of this assignment has been copied manually or electronically from any other source
+ * (including web sites) or distributed to other students.
+ *
+ * Name: Jack Ma    Student ID: 150150209    Date: 04/10/2022
+ *
+ * Angular App (Deployed) Link: https://spotify-app-bay.vercel.app
+ *
+ * User API (Heroku) Link: https://jm-spotify-user-api.herokuapp.com/api/
+ *
+ ********************************************************************************/
+
 const express = require("express");
 const cors = require("cors");
 const jwt = require("jsonwebtoken");
